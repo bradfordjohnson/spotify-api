@@ -1,6 +1,6 @@
 # Spotify API
 
-Building my own Spotify API Wrapper in Python because I want to learn how to build an API Wrapper. Will be using the wrapper to get data in future projects for analysis and visualization.
+Building my own Spotify API Wrapper in Python because I want to learn how to build an API Wrapper. Will be using this wrapper in future projects for data analysis and visualization.
 
 ## Learning Objectives
 
